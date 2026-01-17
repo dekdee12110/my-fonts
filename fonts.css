@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Komika';
+  /* เปลี่ยน URL ตรงนี้ให้ตรงกับชื่อ User และชื่อไฟล์ของคุณ */
+  src: url('https://yourname.github.io/my-fonts/fontname.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
